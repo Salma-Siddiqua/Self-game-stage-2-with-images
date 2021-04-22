@@ -1,1 +1,2 @@
-# Self-game-stage-2-with-images
+# p5.play-boilerplate
+Boiler plate for p5.play
